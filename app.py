@@ -21,7 +21,7 @@ def api(url):
 # Set constants
 token_address = '0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611'  # Million token address
 server = 'https://api.ethplorer.io'  # Ethereum Tokens Explorer server
-api_key = 'EK-apFd1-LfyHfCL-QydoE'  # My Ethereum ethplorer api key (you can get yours free one on site
+api_key = 'XXXXXXXXXXX'  # Ethereum ethplorer api key (you can get yours free one on site
 # https://ethplorer.io/ or use word "freekey" for limited information request)
 
 # Get token info
